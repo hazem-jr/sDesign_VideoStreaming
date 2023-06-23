@@ -1,2 +1,2 @@
 # sDesign_VideoStreaming
-A simple Video Streaming design using objects in JAVA
+A simple Video Streaming prototype in JAVA
